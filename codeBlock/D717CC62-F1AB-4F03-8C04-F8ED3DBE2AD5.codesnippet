@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>aa</string>
+	<string>swiftmark</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/** &lt;#注释#&gt;*/</string>
+	<string>// MARK : - &lt;#注释#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>1E5F3191-425F-44B1-AFB9-1CB189448823</string>
+	<string>D717CC62-F1AB-4F03-8C04-F8ED3DBE2AD5</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>swift属性注释</string>
+	<string>swiftmark</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>swift属性注释</string>
+	<string>swiftmark</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
