@@ -2,18 +2,30 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>mylifecycle</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK : - 注释</string>
+	<string>#pragma mark - public method
+
+#pragma mark - life circle
+
+#pragma mark - private method
+
+#pragma mark - target action
+
+#pragma mark - getter &amp; setter</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>1CC2B836-4316-4178-93C5-96D9E5F57A35</string>
+	<string>7400E6E6-A18F-4C13-B0BE-1DB1815152BD</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>mylifecycle</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>My Code Snippet</string>
+	<string>mylifecycle</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
